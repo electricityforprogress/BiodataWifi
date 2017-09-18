@@ -8,3 +8,6 @@ Included in this repository are an Arduino Sketch for the Adafruit Circuit Playg
 
 Using the Circuit Playground Switch, Serial data can be output (+) or USB MIDI connectivity (-)
 ![Alt text](BiodataArduinoSerialDataExample04.png "Serial Data")
+
+3D Printed Enclosure - 
+https://www.tinkercad.com/embed/lpzT7Wl8fgM?editbtn=1
